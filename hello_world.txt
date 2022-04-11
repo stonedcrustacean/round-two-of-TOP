@@ -1,0 +1,5 @@
+Hey, finally opened this .txt via terminal. The 'trick' is remembering this install of VS code is flatpak; to open a file, then, it something like this: 'flatpak com.visualstudio.code [name of file]'
+Remember '.' broadly means 'everything/all'
+
+Anyway, onto the thing i was instucted to do, pretend that line 5 is line 3
+Hello Odin!
